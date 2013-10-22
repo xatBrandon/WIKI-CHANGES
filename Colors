@@ -4,23 +4,23 @@ If you have multiple color powers you can combine them to create custom colors:
 
 ====You can mix multiple colors, for example:====
 
-:(smile#gb) red and green makes the smilie a cyan color
+:(smile#gb) red and green makes the smilie a cyan color.
 
 ====You can have different amounts of each color, for example:====
 
-:(smile#rrg) 2 parts red and 1 part green makes an orange color
+:(smile#rrg) 2 parts red and 1 part green makes an orange color.
 
 ====You can make the color lighter or darker, for example:====
 
-:(smile#b+++) blue with 3 light makes a light blue
+:(smile#b+++) blue with 3 light makes a light blue.
 
-:(smile#b---) blue with 4 dark makes a light blue
+:(smile#b---) blue with 3 dark makes a dark blue.
 
-====Alternatively you can use hex color codes, for example:====
+====Alternatively, you can use hex color codes, for example:====
 
 :(smile#800080) - for purple
 
-If you dont have the necessary color powers the chatbox will do the best it can to make the color requested.
+If you don't have the necessary color powers the chatbox will do the best it can to make the color requested.
 
 You can find hex colour codes at [http://xatalert.com/colour-chooser/ xatAlert]
 
