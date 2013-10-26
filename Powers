@@ -3,7 +3,7 @@ __NOTOC__
 <translate>
 
 <!--T:2-->
-You can use your xats / days to buy special powers and abilities for the xat chat. These abilities make you stand out from others that do not have xats / days. There are bonus features with powers you could receive. If you have every power that xat has made; you qualify to use the Ruby Pawn. For information see [http://util.xat.com/wiki/index.php/EveryPower EveryPower]
+You can use your xats / days to buy special powers and abilities for the xat chat. These abilities make you stand out from others that do not have xats / days. There are bonus features with powers you could receive. If you have every power that xat has made you qualify to use the Ruby Pawn. For information see [http://util.xat.com/wiki/index.php/EveryPower EveryPower]
 
 ===Translations:=== <!--T:3-->
 
@@ -139,7 +139,7 @@ You can use your xats / days to buy special powers and abilities for the xat cha
 *See [http://util.xat.com/wiki/index.php/Hearts Hearts] wiki page for information.
 
 ===http://xat.com/images/smw/eggs.png (eggs) - Egg smilies LIMITED=== <!--T:32-->
-*One new smiley will be released every day: (eggs) (chickwalk) (eggnod) (eggbroke) (stripegg) (eggwink) (eggsleep) (bunnyears) (eggtongue) (basket2)
+*Smilies are: (eggs) (chickwalk) (eggnod) (eggbroke) (stripegg) (eggwink) (eggsleep) (bunnyears) (eggtongue) (basket2)
 *'''Note:''' stripegg is colorable. Example:  (stripegg#stripegg#gr#rg#r#rg) (stripegg#stripegg#gr#r#rg) (stripegg#stripegg#r#rg)
 *'''Note2:''' you can add any yellow smilie on stripegg e.g (d#c#stripegg) (mad#c#stripegg#r#zap)
 *'''Note3:''' bunnyears is colorable. Example: (bunnyears#rg#bunnyears#b#r#rg), also you can add bunnyears on any yellow smilie (d#bunnyears).
@@ -231,7 +231,7 @@ You can use your xats / days to buy special powers and abilities for the xat cha
 *Smilies: (drop) (dropworry) (dropumb) (dropscratch) (droprub) (drophey) (dropeat) (dropdance) (dropclap) (dropback)
 
 <!--T:54-->
-There are no plans to release any more DROP powers. But like other limited powers more could be released in the future. However xat will guarantee not to release any in 2012.
+There are no plans to release any more DROP powers. But like other limited powers more could be released in the future.
 
 ===http://xat.com/images/smw/spacewar.png (spacewar) - Space War=== <!--T:55-->
 *SpaceWar is a [[GroupPowers|GROUP POWER.]]
@@ -318,7 +318,7 @@ There are no plans to release any more DROP powers. But like other limited power
 *Smilies are: (blobby) (bbclap) (bbconfused) (bbcry) (bbfit) (bbglare) (bbhug) (bblaugh) (bboops) (bbpout) (bbwink) (bbback)
 
 ===http://xat.com/images/smw/pulsefx.png (pulsefx) - Pulsefx smilies=== <!--T:77-->
-*Add Pulsing  Styled Glowing effects to any smilies with custom colors! E.g.. (smile#pulsefx)
+*Add Pulsing-Styled Glowing effects to any smilies with custom colors! E.g.. (smile#pulsefx)
 *(pulsefxback) for those that want pulsefx as a gback.
 *Example smilies are (d#pulsefxback#r) (d#pulsefx#b#pulsefx#r)
 
@@ -667,13 +667,13 @@ A snakebanned user has the chance to get out of the ban by completing a snake ga
 *'''''Note this also means they won't be able to reply to private messages that you send to them.''''' 
 *This can be combined with nopc aswell.
 
-=== (easter) - Easter themed smilies '''''LIMITED'''''=== <!--T:170-->
+===http://xat.com/images/smw/easter.png (easter) - Easter themed smilies '''''LIMITED'''''=== <!--T:170-->
 
 <!--T:171-->
 *Celebrate Easter with these smilies: (easter) (basket) (bunny) (bunny2) (chick) (egg2) (eggb) (paintegg). 
 *You can also use these as effects, examples: (bunny2#easter) (cool#eggb) (bunny#paintegg).
 
-=== (flashrank) - Show rank on your colored pawn=== <!--T:172-->
+===http://xat.com/images/smw/flashrank.png (flashrank) - Show rank on your colored pawn=== <!--T:172-->
 
 <!--T:173-->
 *Make your pawn fade between your pawn color power (purple, pink, blueman) and your rank on the chat. 
@@ -688,7 +688,7 @@ A snakebanned user has the chance to get out of the ban by completing a snake ga
 *You can also use them as effects, like (cool#tap) (groom#pot) (redface#clover2) (beye#shi)  
 *'''''Note: that (d#igirl#w1) is add igirl hair and (d#igirl#w2) means add igirl hair and hat. (shi) is short for shillelagh - an Irish stick.''''' '''''Limited'''''
 
-=== (party) - party smilies=== <!--T:176-->
+===http://xat.com/images/smw/party.png (party) - party smilies=== <!--T:176-->
 *Have a party on xat with party smilies: (balloon) (bride) (cake) (clink) (pdance) (pdance2) (pdance3) (groom) (photo) (popper) (toast) (phat). 
 *You can also use these as effects, example (hehe#pdance3) (goo#bride) (tongue#popper) (eek#balloon).
 *Note the old smilies: (dance) (dance2) (dance3) are now (pdance) (pdance2) (pdance3).
@@ -716,7 +716,7 @@ A snakebanned user has the chance to get out of the ban by completing a snake ga
 *Allows you to convert your days to xats. Note when you use the power, it'll automatically be deducted from your powers list, so be sure you really want to convert before using! You may only convert 180 days per dx power, however you can use multiple dx powers to convert more days. 
 *For example you can convert 360 days with two dx powers. You will get 13.5 xats for each day converted.  [http://xat.com/DX Convert now by clicking here!]
 
-=== (stick)- Stick smilies=== <!--T:183-->
+===http://xat.com/images/smw/stick.png (stick)- Stick smilies=== <!--T:183-->
 *Create custom stick smilies using the Stick power. 
 *Make them dance, wave, or do anything you'd like! See [[Stick]] article for details.
 
@@ -765,14 +765,14 @@ xb4
 xday 
 christmas
 
-===(snowy)- Snow-themed smilies and kisses '''''LIMITED'''''=== <!--T:191-->
+===http://xat.com/images/smw/snowy.png (snowy)- Snow-themed smilies and kisses '''''LIMITED'''''=== <!--T:191-->
 
 <!--T:192-->
 *Snowy lets you add #snowy to the end of smilies for a snowflake effect. 
 *You can also add #snows to make snow fall on the smilie, and add #snowy to the end of your avatar to make it snow. If you want you can customize the type of snowflake (so it's not random what type it uses), add #w1 #w2 #w3 or #w4 to the end to use them. You can use #snows to add snow to smilies and a new glitter: #snowy . 
 *Also you can use two new kisses: Snow and Globe. You can also use the following with the Globe / Pull / Bugs kiss: #santa1 #yeti1 #xmastree #snowman #reindeer2 #gift1 #house #candystick #xmasstar #xb1 #xb2 #xb3 #xb4 #xb5 #gift2 #sack (add only <b>1</b> to the end of the message to use the smilie on Pull, Bugs, or Globe kiss ONLY).
 
-===(thanksgiving)- Thanksgiving smilies '''''LIMITED'''''=== <!--T:193-->
+===http://xat.com/images/smw/thanksgiving.png (thanksgiving)- Thanksgiving smilies '''''LIMITED'''''=== <!--T:193-->
 
 <!--T:194-->
 *Thanksgiving themed smilies. Smileys are: (pilgrimm) (pilgrimf) (indian) (indian2) (indian3) (chef) (dining) (eatleg) (feast2).
@@ -808,7 +808,7 @@ $status=Be right back<br>
 <!--T:204-->
 Anime smilies, tops, hairstyles and accessories. 22 in all! E.g. (anime) (headband) (fan) (tear) (haira1). [http://util.xat.com/wiki/index.php/Anime See Anime wiki for more details]
 
-===(hush) - Stop everyone from talking (owner power)=== <!--T:205-->
+===http://xat.com/images/smw/hush.png (hush) - Stop everyone from talking (owner power)=== <!--T:205-->
 
 <!--T:206-->
 This power lets owners gag everyone in the chat so you can make an announcement etc. To gag all guests for 1 minute type /h60Quiet please for one minute in the main chat. To gag members as well use /hm , moderators use /hd and owners use /ho  The reason is optional but recommended. Maximum time is 60s and minimum is 10s. 
@@ -816,7 +816,7 @@ This power lets owners gag everyone in the chat so you can make an announcement 
 <!--T:207-->
 You can program the time of the hourglass, for example to make the hour glass time 60s do (hush#w60).
 
-===(halloween) - Halloween smilies '''''LIMITED'''''=== <!--T:208-->
+===http://xat.com/images/smw/halloween.png (halloween) - Halloween smilies '''''LIMITED'''''=== <!--T:208-->
 
 <!--T:209-->
 Halloween smilies and effects. Smileys are: (halloween) (ghost) (grim) (tomb) (bat) (pkn) (cdn) (mmy) (frk) (wh) (pknlaugh) (dig) (die) (tort).
@@ -845,7 +845,7 @@ Add 1-3 letters or numbers to some smilies. Examples: (l#num#numi?u) (noface#num
 <!--T:218-->
 Give a fruity background to any "yellow" smilie, and allows you to use the fruit smilies. Eg (smile#fruit) (d#apple) (yum#pear) (eek#orange) (wink#plum) (hello#lemon) (a#banana). Works with () smilies only.
 
-=== (radio) - Personal radio=== <!--T:219-->
+===http://xat.com/images/smw/radio.png (radio) - Personal radio=== <!--T:219-->
 
 <!--T:220-->
 Take radio stations with you as you visit different chat groups. Support your favorite radio stations by sharing them with your fellow chatters, if anyone clicks on your radio smilie they will tune in as well. [http://util.xat.com/wiki/index.php/Radio See radio wiki for more details]
@@ -855,12 +855,12 @@ Take radio stations with you as you visit different chat groups. Support your fa
 <!--T:222-->
 FOR OWNERS ONLY! Allows you to silent ban a user. This will ban a user without them knowing. To mute a user click on their name and press ban, select the duration and press the mute button. NOTE: the max time to mute a user is 1 hour.
 
-===(angel) - Angel smilies '''''LIMITED'''''=== <!--T:223-->
+===http://xat.com/images/smw/angel.png (angel) - Angel smilies '''''LIMITED'''''=== <!--T:223-->
 
 <!--T:224-->
 Add wings, a halo, a cloud and prayer hands to any yellow smiley. For example to add all the effects use (angel#angel#halo#cloud#pray).
 
-=== (dood) - Import images to doodle=== <!--T:225-->
+===http://xat.com/images/smw/dood.png (dood) - Import images to doodle=== <!--T:225-->
 
 <!--T:226-->
 Allows you to import images into doodle. Load a doodle you have been working on before, load a background or load a picture to draw on. To import an image, post the url to the image (direct link for photobucket) into the chat box and press the new Load button [[Image:dood.png]] on doodle. 
@@ -868,16 +868,16 @@ Allows you to import images into doodle. Load a doodle you have been working on 
 *All image hosts links should work aslong as they are in acceptable formats, not all of them will.
 *Max dimensions are 1024 x 1024 
 *Acceptable image types are jpg, png, and gif formats
-*Dood power comes with a dood hand for the hands powers,
+*Dood power comes with a dood hand for the hands powers
 *Example codes for the dood powers being added to smilies (smile#dood#b#rockon#left#thumbsup#right), (d#dood), (yawn#dood)
 *Importing will not work if there is any extra text or smilies in the message the image link is sent in.
 
-===(six) - Devil smilies '''''LIMITED'''''=== <!--T:227-->
+===http://xat.com/images/smw/six.png (six) - Devil smilies '''''LIMITED'''''=== <!--T:227-->
 
 <!--T:228-->
 Turn your "yellow" smilies into devils. To make a devil smilie use (cry2#6). To use it with the pitchfork use (cry2#r#six). It can be used with the smilie option mode: To use devils smilies for all your yellows type /o6 in to the chatbox, to return to normal type /o
 
-===(costumes) - Costumes=== <!--T:229-->
+===http://xat.com/images/smw/costumes.png (costumes) - Costumes=== <!--T:229-->
 
 <!--T:230-->
 Put costumes on "yellow" smilies. To make a confused with a jester hat use (confused#jester). If you have color powers, the costumes can be colored e.g. (confused#cb#g) or (confused#ninja#800080). It can also be used with other powers such as hands. The price will go up when more costumes are added.
@@ -885,15 +885,15 @@ Put costumes on "yellow" smilies. To make a confused with a jester hat use (conf
 ===http://xat.com/images/smw/gag.png (gag) - Gag instead of ban '''''LIMITED'''''=== <!--T:231-->
 
 <!--T:232-->
-Allows you to gag guests and members for up to an hour, assuming you have the necessary rank to ban. To gag someone click on them and press ban, select the duration and reason and press the gag button. To un-gag someone, change their rank(Make member or guest).
+Allows you to gag guests and members for up to an hour, assuming you have the necessary rank to ban. To gag someone click on them and press ban, select the duration and reason and press the gag button. To un-gag someone, change their rank (make member or guest).
 
 <!--T:233-->
 Users who are gagged can not disrupt the main chat, and can only start private chats/messages with people who've added them as a friend. Unlike bans, gagging does not block all of the users accounts, and it does not allow the user to report an unfair ban.
 
-===<embed src="http://xat.com/images/sm/fade.swf" flashvars="f=1" quality="high" bgcolor="#ffffff" type="application/x-shockwave-flash" align="middle" width="25" height="25"> (fade) - Fade effect '''''LIMITED'''''=== <!--T:234-->
+===http://xat.com/images/smw/fade.png (fade) - Fade effect '''''LIMITED'''''=== <!--T:234-->
 
 <!--T:235-->
-Give a ghost like fade effect to any "yellow" smilie. To make a smilie fade add #f to the smilie code eg (smile#f).
+Give a ghost-like fade effect to any "yellow" smilie. To make a smilie fade add #f to the smilie code eg (smile#f).
 
 ===http://xat.com/images/smw/hairf.png (hairf) - Female hair=== <!--T:236-->
 
@@ -905,7 +905,7 @@ Put female hair styles on "yellow" smilies. To make a confused with a female hai
 <!--T:239-->
 Put male hair styles on "yellow" smilies. To make a confused with a male hair style use (confused#hairm). You can also use #hairm2 or #hairm3 for different sytles. If you have color powers, the hair can be colored e.g. (confused#hairm2#rg) or (confused#hairm3#800080). It can also be used with other powers such as hands. The price will go up when more styles are added.
 
-===(hands) - Smiley hands=== <!--T:240-->
+===http://xat.com/images/smw/hands.png (hands) - Smiley hands=== <!--T:240-->
 
 <!--T:241-->
 Put hands on other "yellow" smilies. Set different actions and mix/match for interesting combos. To make a biggrin doing loser use (biggrin#loser). To make a d smilie with thumbsup moving rotating at the wrist use (d#thumbsup#wrist). See [http://util.xat.com/wiki/index.php/Hands This page] for more info.
@@ -925,17 +925,17 @@ When this power is enabled you will show as purple on the user list regardless o
 <!--T:247-->
 Give a purple diamond shape to any "yellow" smilie. To make a diamond smilie add #d to the smilie code eg (smile#d). If you have color powers you can change the color. EG for red use: (biggrin#d#FF0000). Works with () smilies only.
 
-=== (sinbin) - Sinbin a moderator=== <!--T:248-->
+===http://xat.com/images/smw/sinbin.png (sinbin) - Sinbin a moderator=== <!--T:248-->
 
 <!--T:249-->
-NOTE: YOU HAVE TO BE AN OWNER TO USE THIS POWER! Strip a moderator of kick and ban power from 1 minute to 24 hours. To use private chat the user and send him a message like /n2.5 which in this case would sinbin for 2 hours 30 minutes. This power will not work on tempmods.
+NOTE: YOU HAVE TO BE AN OWNER TO USE THIS POWER! Strip a moderator of kick and ban power from 1 minute to 24 hours. To use, private chat the user and send him a message like /n2.5 which in this case would sinbin for 2 hours 30 minutes. This power will not work on tempmods.
 
-=== (guestself) - Make yourself a guest=== <!--T:250-->
+===http://xat.com/images/smw/guestself.png (guestself) - Make yourself a guest=== <!--T:250-->
 
 <!--T:251-->
 Type /g in the main chat to turn yourself into a guest. Useful if you don't want to be a member on a chat or you want to resign as mod or not be main owner for a while. NOTE: If you de-owner yourself make sure you can get it back!
 
-=== (invisible) - Invisible owner=== <!--T:252-->
+===http://xat.com/images/smw/invisible.png (invisible) - Invisible owner=== <!--T:252-->
 
 <!--T:253-->
 NOTE: YOU MUST BE AN OWNER TO USE THIS POWER! Become invisible and not show online on the chat and still see the chat messages. To enable this power, have it checked it in the powers box. When you first turn up on a chat you will be invisible, if you talk you will appear online. You are only invisible to users you out rank.
@@ -945,7 +945,7 @@ NOTE: YOU MUST BE AN OWNER TO USE THIS POWER! Become invisible and not show onli
 <!--T:255-->
 Turn your pawn pink. When this power is enabled you will show as pink on the user list if you are a guest (or owner in $tealth) and a darker pink if you are a member. This power will not change your pawn color while "blueman" power is enabled. This power will not change your pawn color while "purple" power is enabled (unless you're in $tealth).  NOTE: YOU MUST BE A GUEST, MEMBER OR OWNER IN $TEALTH MODE TO USE THIS POWER!
 
-=== (superkick) - Kick Lower Ranks=== <!--T:256-->
+===http://xat.com/images/smw/superkick.png (superkick) - Kick Lower Ranks=== <!--T:256-->
 
 <!--T:257-->
 Allows you to Kick lower ranks. Main Owners can kick Owners, Owners can kick mods and Members can kick banned members and banned guests. If you have boot power you can boot lower ranks as well!
@@ -968,7 +968,7 @@ Allow other users to see your xats and days. Xats and days will appear on the po
         
 Give a light green octogram shape to any "yellow" smilie. To make a octogram smilie add #o to the smilie code eg (smile#o). If you have color powers you can change the color. EG for purple use: (biggrin#o#800080). Works with () smilies only.
 
-=== (clear) - Clear Smilies '''''LIMITED'''''=== <!--T:263-->
+===http://xat.com/images/smw/clear.png (clear) - Clear Smilies '''''LIMITED'''''=== <!--T:263-->
         
 Give a clear background to any "yellow" smilie. To make a clear smilie add #c to the smilie code eg (smile#c). Works with () smilies only.
 
@@ -977,7 +977,7 @@ Give a clear background to any "yellow" smilie. To make a clear smilie add #c to
 <!--T:265-->
 Give a pink hexagon shape to any "yellow" smilie. To make a pink hexagon smilie add #x to the smilie code eg (smile#x). If you have color powers you can change the color. EG for purple use: (biggrin#x#800080). Works with () smilies only.
 
-=== (cycle) - Color cycle smilies=== <!--T:266-->
+===http://xat.com/images/smw/cycle.png (cycle) - Color cycle smilies=== <!--T:266-->
 
 <!--T:267-->
 Give a cycle of rainbow colors to any "yellow", heart or square smilie. To make an cycle smilie add #y to the smilie code. EG (smile#y). To make a heart smiley cycle use: (wink#h#y), To make a square smiley cycle use: (frown#s#y). Works with ( ) Smilies only.
@@ -1069,7 +1069,7 @@ This power removes the star from your "pawn" (Or heart/cross if you're Married/B
 ===http://xat.com/images/smw/noaudies.png (noaudies) - Turn off audies sounds=== <!--T:297-->
 
 <!--T:298-->
-This power prevents audies from being played after people (Including yourself) use a message containing an audie. Instead you'll hear the ordinary beeping sound. Audies will still play if they are clicked on.
+This power prevents audies from being played after people (Including yourself) use a message containing an audie. Instead, you'll hear the ordinary beeping sound. Audies will still play if they are clicked on.
 
 ===http://xat.com/images/smw/mirror.png (mirror) - Mirror smilies=== <!--T:299-->
 
@@ -1130,7 +1130,7 @@ This power allows you to mirror (Flip sides, so the right is on the left, and le
 <!--T:320-->
 *If someone else on the same rank as you has topman, then who is the top of those people will be determined by: Whether they have a BFF/Married person who is higher; whether or not they have purple power; whether or not they have a short name; whether or not they're on xat or online; whether or not they're using reghide; and ID number.
 
-=== (allpowers) - Use the Allpowers smilie.=== <!--T:321-->
+===http://xat.com/images/smw/allpowers.png (allpowers) - Use the Allpowers smilie.=== <!--T:321-->
 
 <!--T:322-->
 *Allows you to use the (allpowers) emotion,and the golden egg hat. To qualify for allpowers you need to have at least one of each available standard power. 
@@ -1141,7 +1141,7 @@ This power allows you to mirror (Flip sides, so the right is on the left, and le
 <!--T:324-->
 *You can use the secondary allpowers smilie (hmm#allpowers#w1)
 
-=== (everypower) - The rarest power ever.=== <!--T:325-->
+===http://xat.com/images/smw/everypower.png (everypower) - The rarest power ever.=== <!--T:325-->
 
 <!--T:326-->
 To receive (everypower), you have to have every single power, including limited / epic, making this the rarest power on xat.
